@@ -22,10 +22,6 @@ _testmain.go
 
 *.exe
 *.test
-./mycryptocap_core
-mycryptocap_core
-mycryptocap_core.pid
-log
 
 # Ignore data folder
 
